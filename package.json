@@ -1,0 +1,25 @@
+{
+  "name": "img-processor-js",
+  "version": "1.0.0",
+  "description": "an image processor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankit13022/image-processor.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "ankit kumar",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ankit13022/image-processor/issues"
+  },
+  "homepage": "https://github.com/ankit13022/image-processor#readme",
+  "dependencies": {
+    "sharp": "^0.33.4"
+  }
+}
